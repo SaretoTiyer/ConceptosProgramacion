@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 Console.WriteLine("Ingresa un numero: ");
 int numero = int.Parse(Console.ReadLine());
 
